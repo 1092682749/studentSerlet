@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mapper>
-<table name="qwe">
-    <column>qqq</column>
-    <column>www</column>
-    <column>eee</column>
-</table>
-</mapper>
