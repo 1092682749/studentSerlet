@@ -10,7 +10,7 @@ public class EnumClass {
             System.out.println(s == Shrubbery.CRAWLING);
             System.out.println(s.getDeclaringClass());
             System.out.println(s.name());
-            System.out.println("........................");
+            System.out.println("........................................");
         }
         for (String s : "HANGING CRAWLING GROUND".split(" "))
         {
