@@ -1,5 +1,5 @@
 package ThinkInJava;
-
+// info
 public class TestLabl {
     public static void main(String args[])
     {
